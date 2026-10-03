@@ -1,2 +1,2 @@
 # washer-level
-a simple app to level a washer I. the style of SmartHQ
+a simple app to level a washer in the style of SmartHQ
